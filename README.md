@@ -1,1 +1,3 @@
-Details about this assignment can be found [on the course webpage](http://cs231n.github.io/), under Assignment #1 of Winter 2016.
+Coursework for CS 231 Covolutional Neural Networks for Image Recognition. iPython notebooks and the framework of the python files are course materials, sections of code where the student implements something are marked off in comments. 
+
+Code is not complete, the linear classifiers ( SVM, softmax and KNN ) are implemented but the two-layer neural net is not fully functional. 
